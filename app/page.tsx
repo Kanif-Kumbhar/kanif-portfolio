@@ -11,7 +11,7 @@ import ParticleBackground from "@/components/3d/ParticleBackground";
 export default function Home() {
 	return (
 		<>
-			<ParticleBackground />
+			{/* <ParticleBackground /> */}
 			<main className="relative">
 				<Hero />
 				<About />
